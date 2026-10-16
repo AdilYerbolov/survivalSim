@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\bin\Debug\net8.0\Data\actions.json
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\bin\Debug\net8.0\SurvivalSim.exe
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\bin\Debug\net8.0\SurvivalSim.deps.json
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\bin\Debug\net8.0\SurvivalSim.runtimeconfig.json
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\bin\Debug\net8.0\SurvivalSim.dll
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\bin\Debug\net8.0\SurvivalSim.pdb
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\SurvivalSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\SurvivalSim.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\SurvivalSim.AssemblyInfo.cs
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\SurvivalSim.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\SurvivalSim.dll
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\refint\SurvivalSim.dll
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\SurvivalSim.pdb
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\SurvivalSim.genruntimeconfig.cache
+C:\Users\Admin\Downloads\SurvivalSim_Assignment5\SurvivalSim\obj\Debug\net8.0\ref\SurvivalSim.dll
