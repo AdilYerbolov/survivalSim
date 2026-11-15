@@ -1,0 +1,106 @@
+[
+  {
+    "id": "stick",
+    "name": "Stick",
+    "symbol": "/",
+    "color": "DarkYellow",
+    "weight": 0.5,
+    "maxStack": 20,
+    "tags": [
+      "wood",
+      "fuel"
+    ]
+  },
+  {
+    "id": "loose_stone",
+    "name": "Loose Stone",
+    "symbol": "o",
+    "color": "Gray",
+    "weight": 1,
+    "maxStack": 20,
+    "tags": [
+      "stone"
+    ]
+  },
+  {
+    "id": "log",
+    "name": "Log",
+    "symbol": "=",
+    "color": "DarkYellow",
+    "weight": 10,
+    "maxStack": 5,
+    "tags": [
+      "wood",
+      "fuel"
+    ]
+  },
+  {
+    "id": "firewood",
+    "name": "Firewood",
+    "symbol": "=",
+    "color": "DarkYellow",
+    "weight": 2,
+    "maxStack": 20,
+    "tags": [
+      "wood",
+      "fuel"
+    ]
+  },
+  {
+    "id": "plant_fiber",
+    "name": "Plant Fiber",
+    "symbol": "\"",
+    "color": "Green",
+    "weight": 0.1,
+    "maxStack": 50,
+    "tags": [
+      "fiber"
+    ]
+  },
+  {
+    "id": "stone_blade",
+    "name": "Stone Blade",
+    "symbol": "!",
+    "color": "Gray",
+    "weight": 0.8,
+    "maxStack": 1,
+    "tags": [
+      "blade"
+    ]
+  },
+  {
+    "id": "stone_axe",
+    "name": "Stone Axe",
+    "symbol": "a",
+    "color": "White",
+    "weight": 2,
+    "maxStack": 1,
+    "tags": [
+      "tool",
+      "axe"
+    ]
+  },
+  {
+    "id": "stone_pickaxe",
+    "name": "Stone Pickaxe",
+    "symbol": "p",
+    "color": "White",
+    "weight": 2.5,
+    "maxStack": 1,
+    "tags": [
+      "tool",
+      "pickaxe"
+    ]
+  },
+  {
+    "id": "campfire",
+    "name": "Campfire Kit",
+    "symbol": "*",
+    "color": "Red",
+    "weight": 5,
+    "maxStack": 1,
+    "tags": [
+      "construction"
+    ]
+  }
+]

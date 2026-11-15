@@ -1,0 +1,20 @@
+[
+  {
+    "id": "wooden_wall",
+    "objectDefinitionId": "wooden_wall",
+    "ingredients": [
+      { "itemId": "log", "quantity": 2 }
+    ],
+    "durationMinutes": 30,
+    "energyCost": 8
+  },
+  {
+    "id": "stone_furnace",
+    "objectDefinitionId": "stone_furnace",
+    "ingredients": [
+      { "itemId": "loose_stone", "quantity": 8 }
+    ],
+    "durationMinutes": 90,
+    "energyCost": 15
+  }
+]

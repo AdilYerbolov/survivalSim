@@ -1,0 +1,58 @@
+[
+  {
+    "id": "grass",
+    "name": "Grass",
+    "symbol": ".",
+    "color": "Green",
+    "walkable": true,
+    "movementCost": 10
+  },
+  {
+    "id": "dirt",
+    "name": "Dirt",
+    "symbol": ",",
+    "color": "DarkYellow",
+    "walkable": true,
+    "movementCost": 10
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "symbol": ".",
+    "color": "Yellow",
+    "walkable": true,
+    "movementCost": 15
+  },
+  {
+    "id": "stone",
+    "name": "Stone Floor",
+    "symbol": ".",
+    "color": "Gray",
+    "walkable": true,
+    "movementCost": 10
+  },
+  {
+    "id": "shallow_water",
+    "name": "Shallow Water",
+    "symbol": "~",
+    "color": "Cyan",
+    "walkable": true,
+    "movementCost": 20
+  },
+  {
+    "id": "deep_water",
+    "name": "Deep Water",
+    "symbol": "~",
+    "color": "Blue",
+    "walkable": false,
+    "movementCost": 0
+  },
+  {
+    "id": "solid_rock",
+    "name": "Solid Rock",
+    "symbol": "#",
+    "color": "DarkGray",
+    "walkable": false,
+    "movementCost": 0
+  }
+]

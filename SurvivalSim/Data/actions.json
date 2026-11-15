@@ -1,0 +1,8 @@
+[
+  {"Name":"Walk","DurationMinutes":20,"EnergyCost":5},
+  {"Name":"Gather sticks","DurationMinutes":40,"EnergyCost":10},
+  {"Name":"Collect stones","DurationMinutes":1,"EnergyCost":1},
+  {"Name":"Chop wood","DurationMinutes":40,"EnergyCost":95},
+  {"Name":"Invalid backward action","DurationMinutes":-10,"EnergyCost":3},
+  {"Name":"Rest","DurationMinutes":60,"EnergyCost":0}
+]

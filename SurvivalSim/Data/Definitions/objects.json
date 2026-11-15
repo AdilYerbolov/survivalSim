@@ -1,0 +1,101 @@
+[
+  {
+    "id": "oak_tree",
+    "name": "Oak Tree",
+    "symbol": "T",
+    "color": "DarkGreen",
+    "blocksMovement": true,
+    "maxDurability": 100,
+    "requiredToolTag": "axe",
+    "drops": [
+      {
+        "itemId": "log",
+        "quantity": 3
+      },
+      {
+        "itemId": "stick",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "boulder",
+    "name": "Boulder",
+    "symbol": "O",
+    "color": "Gray",
+    "blocksMovement": true,
+    "maxDurability": 200,
+    "requiredToolTag": "pickaxe",
+    "drops": [
+      {
+        "itemId": "loose_stone",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "id": "stone_furnace",
+    "name": "Stone Furnace",
+    "symbol": "F",
+    "color": "DarkRed",
+    "blocksMovement": true,
+    "maxDurability": 250,
+    "requiredToolTag": null,
+    "drops": [
+      {
+        "itemId": "loose_stone",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "id": "wooden_wall",
+    "name": "Wooden Wall",
+    "symbol": "#",
+    "color": "DarkYellow",
+    "blocksMovement": true,
+    "maxDurability": 80,
+    "requiredToolTag": null,
+    "drops": [
+      {
+        "itemId": "log",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "stairs_down",
+    "name": "Stairs Down",
+    "symbol": ">",
+    "color": "White",
+    "blocksMovement": false,
+    "maxDurability": 100,
+    "requiredToolTag": null,
+    "drops": []
+  },
+  {
+    "id": "stairs_up",
+    "name": "Stairs Up",
+    "symbol": "<",
+    "color": "White",
+    "blocksMovement": false,
+    "maxDurability": 100,
+    "requiredToolTag": null,
+    "drops": []
+  },
+  {
+  "id": "campfire",
+  "name": "Campfire",
+  "symbol": "*",
+  "color": "Red",
+  "blocksMovement": false,
+  "maxDurability": 50,
+  "requiredToolTag": null,
+  "drops": [
+    {
+      "itemId": "firewood",
+      "quantity": 2
+    }
+  ]
+}
+]

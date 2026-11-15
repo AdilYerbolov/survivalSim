@@ -1,0 +1,36 @@
+
+[
+  {
+    "id": "stone_blade_recipe",
+    "resultItemId": "stone_blade",
+    "resultQuantity": 1,
+    "ingredients": [
+      { "itemId": "loose_stone", "quantity": 2 }
+    ],
+    "durationMinutes": 15,
+    "energyCost": 5
+  },
+  {
+    "id": "stone_axe_recipe",
+    "resultItemId": "stone_axe",
+    "resultQuantity": 1,
+    "ingredients": [
+      { "itemId": "stone_blade", "quantity": 1 },
+      { "itemId": "stick", "quantity": 1 },
+      { "itemId": "plant_fiber", "quantity": 2 }
+    ],
+    "durationMinutes": 30,
+    "energyCost": 10
+  },
+  {
+    "id": "campfire_recipe",
+    "resultItemId": "campfire",
+    "resultQuantity": 1,
+    "ingredients": [
+      { "itemId": "stick", "quantity": 3 },
+      { "itemId": "log", "quantity": 2 }
+    ],
+    "durationMinutes": 20,
+    "energyCost": 5
+  }
+]

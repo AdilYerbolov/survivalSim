@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="Data/**/*.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <!-- Opt in to building the Windows native C library as part of a managed build:
+       dotnet build SurvivalSim/SurvivalSim.csproj -p:SurvivalSimBuildNative=true -->
+  <Target Name="BuildSurvivalSimNative"
+          AfterTargets="Build"
+          Condition="'$(OS)' == 'Windows_NT' and '$(SurvivalSimBuildNative)' == 'true'">
+    <Exec Command="powershell -NoProfile -ExecutionPolicy Bypass -File &quot;$(MSBuildProjectDirectory)\Native\build-native.ps1&quot; -Configuration $(Configuration)" />
+  </Target>
+</Project>
